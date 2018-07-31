@@ -66,8 +66,8 @@ int fy[]={0,0,1,-1};
 int main()
 {
 	ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    //cout<<"HelloWorld!"<<endl;
+    	cin.tie(NULL);
+    	//cout<<"HelloWorld!"<<endl;
 }
 
 
